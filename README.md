@@ -588,6 +588,88 @@ SPF 2025 年报告：5,575 起求职诈骗、约 S$123.5m 损失；案件较 202
 - [Meta Ad Library](https://www.facebook.com/ads/library/)
 - [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/)
 
+## 附录：报告提及的竞品与相邻求职服务链接
+
+以下清单把报告分析、推荐或作为相邻渠道讨论的平台单独汇总。已去重；流量研究工具、统计资料和一般性的公司招聘官网不列入。标记为已关闭或并入的品牌保留作历史核对，不代表目前仍是独立运营的求职产品。
+
+### 综合与垂直招聘平台
+
+| 名称 | 网址 |
+|---|---|
+| MyCareersFuture | https://www.mycareersfuture.gov.sg/ |
+| JobStreet by SEEK | https://sg.jobstreet.com/ |
+| SEEK Employer（招聘方平台） | https://sg.employer.seek.com/ |
+| Indeed Singapore | https://sg.indeed.com/ |
+| Glassdoor Singapore | https://www.glassdoor.sg/ |
+| LinkedIn Jobs | https://www.linkedin.com/jobs/ |
+| FastJobs Singapore | https://www.fastjobs.sg/ |
+| Foundit Singapore | https://www.foundit.sg/ |
+| Jobscentral | https://jobscentral.com.sg/ |
+| GradSingapore | https://gradsingapore.com/ |
+| INTERNSG | https://www.internsg.com/ |
+| Careers@Gov | https://www.careers.gov.sg/ |
+| eFinancialCareers Singapore | https://www.efinancialcareers.sg/ |
+| FindSGJobs | https://www.findsgjobs.com/ |
+| EASE Jobs | https://www.ease.jobs/en |
+| Findjobs | https://findjobs.com.sg/ |
+| Cultjobs | https://cultjobs.com/ |
+| NodeFlair | https://nodeflair.com/ |
+| SingaporeDev | https://www.singaporedev.com/ |
+| Glints Singapore | https://glints.com/sg/ |
+| Wantedly Singapore Jobs | https://www.wantedly.com/jobs/singapore/all |
+| GrabJobs | https://grabjobs.co/ |
+| Hiredly Singapore | https://sg.hiredly.com/jobs-in-singapore |
+| Jooble Singapore | https://sg.jooble.org/ |
+| Careerjet Singapore | https://www.careerjet.sg/ |
+| Jobrapido Singapore | https://sg.jobrapido.com/ |
+| Talent.com Singapore | https://sg.talent.com/ |
+| JobRadars Singapore | https://singapore.jobradars.com/ |
+
+### 政府、专项就业服务与相邻人才服务
+
+| 名称 | 网址 |
+|---|---|
+| e2i Career Services | https://www.e2i.com.sg/career-services/ |
+| Yellow Ribbon PREP | https://www.yellowribbon.gov.sg/prep |
+| SG Enable Inclusive Jobs Portal | https://www.enablingguide.sg/im-looking-for-disability-support/training-employment/look-for-jobs-from-inclusive-employers |
+| GRIT@Gov | https://www.careers.gov.sg/join-us/grit-gov/ |
+| Career Kaki（AI 职业助手） | https://careerkaki.gov.sg/ |
+| JobTech Career+（相邻人才服务） | https://jobtech.co/career-plus |
+
+### 灵活班次与临时用工平台
+
+| 名称 | 网址 |
+|---|---|
+| FastGig | https://www.fastgig.sg/ |
+| TROOPERS Singapore | https://troopers.com.sg/part-time-jobs-singapore |
+| Staffie | https://staffie.app/ |
+| Flexii Singapore | https://new.flexii.net/sg/ |
+| YY Circle Singapore | https://www.yycircle.com/sg/ |
+| EASE Instant Jobs | https://www.ease.jobs/en |
+
+### AI 求职助手
+
+| 名称 | 网址 |
+|---|---|
+| ApplyLah | https://applylah.com/ |
+| Little Pink Potato | https://www.littlepinkpotato.com/ |
+
+### 招聘机构与人才顾问
+
+| 名称 | 网址 |
+|---|---|
+| Hays Singapore | https://www.hays.com.sg/jobs |
+| Randstad Singapore | https://www.randstad.com.sg/jobs/ |
+| Michael Page Singapore | https://www.michaelpage.com.sg/ |
+
+### 已关闭或不再独立运营的品牌
+
+| 名称 | 网址 |
+|---|---|
+| Jora Singapore（已关闭；页面用于确认状态） | https://sg.jora.com/ |
+| JobsDB Singapore（本地入口已转向关闭提示） | https://sg.jobsdb.com/ |
+| JobStreet Express（不再作为独立项目；SEEK 官方说明） | https://wcsecure.weblink.com.au/clients/seek/headline.aspx?headlineid=3673751 |
+
 ---
 
 **报告维护：** 本 README 是 2026-10-20 的研究快照。更新流量/价格/职位状态时，请在对应表格标记新日期，并保留过去快照，避免用新旧口径直接对比。
