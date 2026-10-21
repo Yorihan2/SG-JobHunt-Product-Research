@@ -702,3 +702,53 @@ SPF 2025 年报告：5,575 起求职诈骗、约 S$123.5m 损失；案件较 202
 | 已并入/停止独立运营 | Jora SG、JobsDB SG、JobStreet Express | 历史上分别偏综合搜索、区域职位搜索及快速/一线招聘 | 不应作为当前独立竞品估算；历史域名流量可能已转移或残留 |
 
 **后续媒体产品分析建议：** 先按“综合搜索入口、垂直内容/社群、公共服务、灵活用工、求职工具”分组，再逐一拆解内容供给、SEO 页面、社媒渠道、获客路径和转化动作。公开网站流量只用于判断相对可见度，不能据此推断真实用户规模或市场份额。
+
+
+## 专项调研：六个平台的网站流量与社媒运营（更新：2026-10-21）
+
+本节聚焦 JobStreet by SEEK、MyCareersFuture、Indeed、LinkedIn、FastJobs 和 foundit。网站流量是 Semrush 的第三方估算，采用其目前可取到的最新完整月（主要为 2026 年 9 月；MCF 为 8 月），不是平台后台数据。社媒粉丝数为公开公司主页在 2026 年 10 月看到的约数，主页受众可能跨国家；发帖频率是近期公开帖样本，不代表全年平均。**本节六个平台的数字用于覆盖/更新前文附录的粗略速览，不应与旧日期快照混为同一时间序列。**
+
+### 1. 新加坡网站访问量比较
+
+| 产品 | 访问量估算（新加坡） | 设备/趋势 | 流量来源线索 | 解读 |
+|---|---:|---|---|---|
+| JobStreet by SEEK | 约 138 万次，2026-09；其全球域名约 1,630 万次 | 新加坡流量约 58.35% 桌面、41.65% 手机；环比 +8.15%、同比 -7.37%（新加坡类别快照） | jobstreet.com 全球域名桌面流量：Direct 59.19%，Google 27.41%；自然搜索流量全球约 978 万次 | 六者中的大型本地招聘入口。品牌直达与搜索均重要；SEEK 区域多国域名流量不能直接当成新加坡市场规模。[Semrush 新加坡 HR 排名](https://www.semrush.com/trending-websites/sg/human-resources) [JobStreet 域名分析](https://www.semrush.com/website/jobstreet.com/overview/) |
+| MyCareersFuture | 约 133 万次新加坡访问，2026-08；整站约 167 万次 | 新加坡占约 79.22%；新加坡流量约 40.29% 桌面、59.71% 手机 | 8 月整站 Direct 约 41.95%，Google 约 20.64%；Google 自然搜索估算约 42.6 万次 | 高可见度的本地公共服务入口，直接访问与品牌搜索显著；剩余来源可能包括政府服务跳转、职位分享等。政府产品页披露的是职位、使用者及雇主数，不是 MAU。[Semrush MCF 2026-08](https://www.semrush.com/website/mycareersfuture.gov.sg/overview/) [GovTech 产品数据](https://www.tech.gov.sg/products-and-services/for-citizens/employment/mycareersfuture/) |
+| Indeed | 约 91.8 万次，2026-09（新加坡 HR 类别估算） | 约 46.45% 桌面、53.55% 手机；环比 +7.75%、同比 -16.24% | Indeed.com 全球域名 Direct 55.22%，Google 24.06%；全球自然搜索估算约 1.575 亿次 | 新加坡网页流量排名仍高；全球域名规模远大于新加坡本地流量。搜索引擎带来职位发现，品牌直达同样占大头。[Semrush 新加坡 HR 排名](https://www.semrush.com/trending-websites/sg/human-resources) [Indeed 域名分析](https://www.semrush.com/website/indeed.com/overview/) |
+| LinkedIn | LinkedIn 全站新加坡约 844 万次，2026-09 | 约 75.73% 桌面、24.27% 手机；环比 +2.85%、同比 -5.87% | LinkedIn 全球域名 Direct 72.3%，Google 17.0% | 只能说明 LinkedIn 整体在新加坡的网页触达非常大；不是 Jobs 子产品流量，也未包括完整 App 使用，不能与招聘网站数字直接比较。[Semrush 新加坡站点排名](https://www.semrush.com/trending-websites/sg/online-services) [LinkedIn 域名分析](https://www.semrush.com/website/linkedin.com/overview/) |
+| FastJobs | 约 22.97 万次，2026-09（新加坡招聘类目估算） | 约 23.76% 桌面、76.24% 手机；环比 +64.45%、同比 -21.55% | 2026-06 的域名分析样本中 Direct 63.0%，Google 21.52%；不能把 6 月来源占比说成 9 月实时结构 | 手机优先很明确；9 月环比反弹明显，但同比仍低。招聘会/即时职位促销可能造成短期波动，需继续看连续月份。[Semrush 新加坡招聘排名](https://www.semrush.com/trending-websites/sg/recruitment-and-staffing) [FastJobs 流量来源样本（2026-06）](https://www.semrush.com/website/fastjobs.sg/overview/) |
+| foundit | foundit.sg 整站约 17.01 万次，2026-09；其中新加坡约 7.58 万次 | 新加坡约占 44.55%；该地域样本约 65.05% 桌面、34.95% 手机；整站环比 -1.99% | foundit.sg Direct 53.81%，Google 18.18%；这是域名桌面流量来源分析 | 新加坡本地规模低于五个主入口，但覆盖印度、马来西亚等区域市场；数据型行业趋势内容和招聘方服务支持其专业/区域定位。[Semrush foundit.sg 分析](https://it.semrush.com/website/foundit.sg/overview/) |
+
+**阅读流量表时要留意：** JobStreet 和 Indeed 的品牌域名分别服务多个国家；LinkedIn 是社交网络全站；MCF 与 FastJobs 的平台/app使用也不一定完整映射到网站 visits。各行的地域估算来自 Semrush 的不同页面/分类，更新时间也有差异，适合判断量级、地域和设备方向，不是精确市场份额。社媒链接点击会被第三方统计归进 Referral，应用内浏览也可能未被计入；公开来源占比无法证明社媒带来的注册、申请或招聘转化。
+
+### 2. 社媒主页与近期运营方式
+
+| 产品 | 可见社媒规模（约；2026-10 页面快照） | 近期运营样本与内容支柱 | 观察 |
+|---|---|---|---|
+| JobStreet Singapore | [LinkedIn 约 8.58 万关注者](https://sg.linkedin.com/company/jobstreetsg) | 近期可见贴文从每周到每数周不等：本地节庆/品牌主题、求职者职业建议、招聘者及雇主品牌内容、招聘趋势和招聘活动；常用 #JobstreetbySEEKSG、#TalentPartners、#BetterJobMatches | 在同一主页同时沟通候选人和招聘方；内容不只转发职位，而会把招聘数据转成雇主沟通/职位描述建议。关注者是全球/区域 LinkedIn 用户，不代表新加坡独立受众或互动率。[主页近期更新](https://sg.linkedin.com/company/jobstreetsg) |
+| MyCareersFuture / SWDA | MCF 没有单独可比的活跃粉丝数；其母机构 [SWDA LinkedIn 约 17.3 万关注者](https://www.linkedin.com/company/skillsandworkforcedevelopmentagency/) | 官方职业建议入口 [WSG Career Advice Linktree](https://linktr.ee/wsgservices) 汇集 Instagram、TikTok、Telegram、YouTube、LinkedIn 和 Facebook；SWDA LinkedIn 近期为每日/隔日更新，常见内容包括 CareersCompass 文章、行业技能与转职建议、职业健康、活动/计划报名和公共服务信息 | 这是政府机构生态的内容运营，内容连接 MCF、CareersCompass、Career Kaki 和职业服务；不应把 SWDA 的粉丝或阅读量记成 MCF 产品专属表现。机构合并后账号名称和栏目处于转型期。 |
+| Indeed | [Indeed 全球 LinkedIn 约 99 万关注者](https://www.linkedin.com/company/indeed-com) | 近期主页多为每周数帖到每日更新：Indeed Hiring Lab 数据、求职和简历建议、Better Work 新闻简报、品牌/体育合作、Indeed FutureWorks 活动。Indeed 官方社媒规则列出 Facebook、X、Instagram、LinkedIn、TikTok，并将 X @indeedsupport 用作客服支持入口。[官方社媒规则](https://www.indeed.com/help/job-seekers/articles/360050829411-social-media-guidelines?co=SG&hl=en) | 内容以全球品牌和职业信息为主；近期样本没有证据显示其运营独立的新加坡官方社媒编辑团队/账号。不能把美国就业调查或全球 LinkedIn 粉丝当作新加坡内容效果。 |
+| LinkedIn | [LinkedIn 公司主页约 3,440 万关注者](https://www.linkedin.com/company/linkedin) | 官方主页几乎每日更新：个人档案与求职功能用法、职场趋势、技能与职业发展、产品功能、员工/社区故事；平台本身还有成员、企业、招聘者持续生产的 UGC 与职位内容 | 这里存在双层运营：LinkedIn 的官方品牌内容和平台成员/雇主的用户生成内容。后者是招聘产品供给与网络效应的一部分；单看公司主页粉丝数无法衡量 LinkedIn Jobs 的职位质量或转化。 |
+| FastJobs | [LinkedIn 约 5,700 关注者](https://www.linkedin.com/company/fastjobsasia)；[官方 Telegram 约 6,200 订阅者](https://t.me/fastjobsofficial) | LinkedIn 近期可见频率为每周多帖；明显围绕职位/招聘会节点连续发布：列参会雇主和岗位、活动提醒、线上提前申请、现场面试与培训资源；也分享蓝领/非管理岗位需求变化和 App 下载/快速申请 CTA | 这是六者中最清晰的“社媒到线下活动、再到投递/App”闭环之一。Telegram 更像即时职位/渠道通知；活动期高频内容容易让月均发帖频次产生偏差。[官方主页与定位](https://www.linkedin.com/company/fastjobsasia) |
+| foundit | [foundit LinkedIn 约 16.6 万关注者](https://sg.linkedin.com/company/foundit-jobs) | 近期主页多为每日或每周多帖：foundit Insights Tracker 分国家/行业发布招聘趋势，轮播图/短视频做数据摘要，评论或链接引导领取报告；同时发布 AI/Swipe to Apply 功能、招聘者活动赞助和员工文化内容 | 主要运营手法是把平台数据包装成可分享的 HR/就业洞察，再兼顾求职者互动和招聘方品牌。受众和数据多为区域/全球口径，Singapore 专题贴虽存在，但不是单独本地粉丝池。 |
+
+### 3. 六个平台的流量与社媒策略对照
+
+- **大流量搜索/职位入口：JobStreet、Indeed。** 网站流量来源中 Direct 与 Google 都占重要位置，意味着品牌认知、职位检索和 SEO 页面共同驱动发现。内容更适合强化岗位匹配、雇主信誉、薪资/职位透明度及申请质量。
+- **政府服务触达：MyCareersFuture。** 流量地域集中、本地直接和搜索流量强，且受 Singpass、政府服务、职业辅导和政策信息带动；它的关键目标是公共服务使用和就业支持，不是广告变现或社媒粉丝最大化。
+- **社交网络型平台：LinkedIn。** 其全站规模远超职位站，内容、人脉、档案、招聘者搜寻和 Jobs 互相导流。做竞品分析要把 LinkedIn 当成“网络分发与人才数据库”，不能只比较职位页 visits。
+- **垂直移动入口：FastJobs。** 网站移动流量占比最高，并以 Telegram、就业活动、快速申请与职位更新把注意力导向 App 和线下招聘；活动高峰是可观察的获客机制。
+- **区域数据内容平台：foundit。** 新加坡域名流量量级小于主流平台，但区域市场横跨新加坡、印度、马来西亚；Insights Tracker 等报告内容既能获取自然流量/社媒分享，也服务招聘行业品牌建设。
+
+### 4. 对下一步媒体产品分析的建议
+
+1. 分别抽样六个平台最近 30 条官方社媒内容，按“职位促投、求职教育、招聘趋势数据、雇主内容、品牌/活动、功能推广、用户故事”编码；记录发布日期、格式、互动数、链接落地页和 CTA。
+2. 对 JobStreet、Indeed、MCF 和 foundit 采集同一批岗位关键词的 Google 搜索结果与 SEO 页面：如 “jobs in Singapore”、岗位名+salary/location、entry level、part time；记录页面类型、标题/描述、更新日期、职位有效性、结构化数据和去重情况。
+3. FastJobs 单独追踪 App 商店排名/评分、Telegram 职位发送频率、活动报名/到场/面试数；职位站 Web visits 很可能低估其移动产品触达。
+4. LinkedIn 需要以职位结果页、公司页、招聘者职位分发及成员内容覆盖为分析对象。用全站流量和公司主页粉丝数只能作背景指标。
+5. 建议建立月度序列：每月同一时间从 Semrush + Similarweb 各取一次 SG 访问量，保留供应商、域名、国家、桌面/手机、来源和抓取日期。流量数据出现分歧时不取平均，先查国家维度、品牌域名、app/web 和日期定义。
+
+### 本节来源与查阅入口
+
+- Semrush：[新加坡 HR 排名（2026-09）](https://www.semrush.com/trending-websites/sg/human-resources)、[新加坡招聘与人力配置排名（2026-09）](https://www.semrush.com/trending-websites/sg/recruitment-and-staffing)、[MyCareersFuture 域名分析（2026-08）](https://www.semrush.com/website/mycareersfuture.gov.sg/overview/)、[JobStreet 域名分析（2026-09）](https://www.semrush.com/website/jobstreet.com/overview/)、[Indeed 域名分析（2026-09）](https://www.semrush.com/website/indeed.com/overview/)、[foundit.sg 域名分析（2026-09）](https://it.semrush.com/website/foundit.sg/overview/)、[LinkedIn 新加坡在线服务排名（2026-09）](https://www.semrush.com/trending-websites/sg/online-services)、[LinkedIn 域名分析（2026-09）](https://www.semrush.com/website/linkedin.com/overview/)、[FastJobs 流量来源样本（2026-06）](https://www.semrush.com/website/fastjobs.sg/overview/)。
+- 官方主页与服务入口：[JobStreet Singapore LinkedIn](https://sg.linkedin.com/company/jobstreetsg)、[SWDA LinkedIn](https://www.linkedin.com/company/skillsandworkforcedevelopmentagency/)、[WSG 职业建议社媒入口](https://linktr.ee/wsgservices)、[Indeed LinkedIn](https://www.linkedin.com/company/indeed-com)、[Indeed 社媒规则](https://www.indeed.com/help/job-seekers/articles/360050829411-social-media-guidelines?co=SG&hl=en)、[LinkedIn LinkedIn](https://www.linkedin.com/company/linkedin)、[FastJobs LinkedIn](https://www.linkedin.com/company/fastjobsasia)、[FastJobs Telegram](https://t.me/fastjobsofficial)、[foundit LinkedIn](https://sg.linkedin.com/company/foundit-jobs)。
